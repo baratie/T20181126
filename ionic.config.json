@@ -1,0 +1,7 @@
+{
+  "name": "SimpleLogin",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
